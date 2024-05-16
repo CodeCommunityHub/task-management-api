@@ -1,0 +1,27 @@
+{
+  "name": "task-management-api",
+  "version": "1.0.0",
+  "description": "[Client](https://github.com/CodeCommunityHub/task-management-client)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anufdo/task-management-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anufdo/task-management-api/issues"
+  },
+  "homepage": "https://github.com/anufdo/task-management-api#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
